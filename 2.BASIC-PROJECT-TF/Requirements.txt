@@ -1,0 +1,6 @@
+1.VPC
+2.Subnet
+3.Rout Table
+4.Internet Gateway
+5.Security Group
+6.EC2
